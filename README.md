@@ -40,7 +40,6 @@ This repo contains the token **logo** and **metadata JSON** files used by wallet
 ## ⚙️ Usage
 Wallets and explorers can pull metadata from: [https://raw.githubusercontent.com//syafj-token-assets/main/metadata/syafj.json]
 
-Logo is available at:  https://raw.githubusercontent.com//syafj-token-assets/main/assets/logo.png
 ---
 
 ## 📜 License
