@@ -39,3 +39,10 @@ This repo contains the token **logo** and **metadata JSON** files used by wallet
 
 ## ⚙️ Usage
 Wallets and explorers can pull metadata from: [https://raw.githubusercontent.com//syafj-token-assets/main/metadata/syafj.json]
+
+Logo is available at:  https://raw.githubusercontent.com//syafj-token-assets/main/assets/logo.png
+---
+
+## 📜 License
+All assets and metadata in this repository are provided for the purpose of correctly identifying the $SYAFJ token across the Solana ecosystem.  
+Feel free to use and share them in the context of wallets, DEXs, and explorers.
