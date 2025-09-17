@@ -33,8 +33,8 @@ This repo contains the token **logo** and **metadata JSON** files used by wallet
 - 🌐 Website: [shakeyourassforjesus.com](https://shakeyourassforjesus.com)  
 - 🐦 Twitter/X: [x.com/shakeda4j](https://x.com/shakeda4j)  
 - 💬 Telegram: [t.me/shakeyourassforjesus](https://t.me/shakeyourassforjesus)  
-  
 
+  
 ---
 
 ## ⚙️ Usage
